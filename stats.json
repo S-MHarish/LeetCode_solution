@@ -1,0 +1,16 @@
+{
+  "shas": {
+    "two-sum": {
+      "two-sum.py": "c1a6e7b9cfefb12236a2a32910466de5a45c4fee",
+      "README.md": "a566e2df18bfc87299cc310ce9948d05d1e5e324"
+    },
+    "README.md": {
+      "": "15ad84b3017f2b89e646e577e0de54789b9bbc51"
+    },
+    "stats.json": {
+      "": "ee34fc420ed55aa60aa03ee997194f73c02eb9c7"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+}
