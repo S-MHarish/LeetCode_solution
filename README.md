@@ -120,19 +120,19 @@ Automatically organized LeetCode solutions and progress.
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java), [Python](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 
 ## Sliding Window
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java), [Python](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 
 ## String
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java), [Python](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

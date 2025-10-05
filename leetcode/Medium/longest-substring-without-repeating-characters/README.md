@@ -2,8 +2,8 @@
 
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
-- **Languages:** `Java`
-- **Submission Date:** August 17, 2026
+- **Languages:** `Python`
+- **Submission Date:** October 5, 2025
 - **Tags:** `Hash Table`, `String`, `Sliding Window`
 
 ## Description
@@ -52,28 +52,25 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ## Solution
 
-### Java
-```java
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        int n = s.length();
-        int maxLength = 0;
-        Map<Character, Integer> charMap = new HashMap<>();
-        int left = 0;
-        
-        for (int right = 0; right < n; right++) {
-            if (!charMap.containsKey(s.charAt(right)) || charMap.get(s.charAt(right)) < left) {
-                charMap.put(s.charAt(right), right);
-                maxLength = Math.max(maxLength, right - left + 1);
-            } else {
-                left = charMap.get(s.charAt(right)) + 1;
-                charMap.put(s.charAt(right), right);
-            }
-        }
-        
-        return maxLength;
-    }
-}
+### Python
+```python
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        char_set = set()  # to store characters in current window
+        left = 0
+        max_len = 0
+
+        for right in range(len(s)):
+            # If character is already in window, shrink from left
+            while s[right] in char_set:
+                char_set.remove(s[left])
+                left += 1
+            # Add new character
+            char_set.add(s[right])
+            # Update max length
+            max_len = max(max_len, right - left + 1)
+
+        return max_len
 ```
 
 ---

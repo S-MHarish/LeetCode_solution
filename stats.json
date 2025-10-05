@@ -68,14 +68,15 @@
       "README.md": "76596ff9d44c788297a27ed367de12eb49f23681"
     },
     "README.md": {
-      "": "4571068e252428187010b308904862d4e6bde743"
+      "": "1f996c5d9efa029fcd67e143323632829250c376"
     },
     "stats.json": {
-      "": "1008c8c9f48497fb2acd1f2de6665cd641182f59"
+      "": "3ff8442263c6de691433e6e940bb6967a1bc9710"
     },
     "longest-substring-without-repeating-characters": {
       "longest-substring-without-repeating-characters.java": "c6583bfb9e81f5b9611d5d31706129daf992f4ca",
-      "README.md": "3239dbd131f306e0193c1f30c4ad648c6bde5fb8"
+      "README.md": "a88909ae7e701c79d47a581603d68ce026b3d29a",
+      "longest-substring-without-repeating-characters.py": "e3975ba3e2a3e0f715f484cad2cd6ef318f37074"
     }
   },
   "solved": 2,
