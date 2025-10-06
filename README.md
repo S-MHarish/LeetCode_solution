@@ -43,6 +43,12 @@ Automatically organized LeetCode solutions and progress.
 
 📌 Primary domains are selected using configured domain rules.
 
+## Dynamic Programming
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./leetcode/Medium/longest-palindromic-substring/longest-palindromic-substring.py) |
+
 ## Hash Table
 
 | # | Problem | Platform | Language |
@@ -54,6 +60,12 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Java](./leetcode/Medium/add-two-numbers/add-two-numbers.java) |
+
+## Manacher
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./leetcode/Medium/longest-palindromic-substring/longest-palindromic-substring.py) |
 
 ## Math
 
@@ -78,6 +90,13 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+| 2 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./leetcode/Medium/longest-palindromic-substring/longest-palindromic-substring.py) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./leetcode/Medium/longest-palindromic-substring/longest-palindromic-substring.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
