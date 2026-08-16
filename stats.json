@@ -18,5 +18,19 @@
       "primaryDomain": "Array",
       "folder": "Array/two-sum"
     }
-  ]
+  ],
+  "shas": {
+    "add-two-numbers": {
+      "add-two-numbers.java": "0a56b27701d409abf5db14508e32aba58a816cbd",
+      "README.md": "6444d72d2623c1f5786276e19f44529245c33d52"
+    },
+    "README.md": {
+      "": "c6ebc575622b432b549fcd024e99fe0fabec78ee"
+    },
+    "stats.json": {
+      "": "6bc6befb325fe8bf720b31b690aacdee6fd868b5"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
