@@ -116,5 +116,23 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [Java](./leetcode/Hard/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
 
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+
+## Sliding Window
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+
+## String
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
