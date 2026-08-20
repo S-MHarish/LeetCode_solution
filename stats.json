@@ -25,12 +25,16 @@
       "README.md": "6444d72d2623c1f5786276e19f44529245c33d52"
     },
     "README.md": {
-      "": "c6ebc575622b432b549fcd024e99fe0fabec78ee"
+      "": "ee293760d86787b011986f9160915ab0ff3acc7e"
     },
     "stats.json": {
-      "": "6bc6befb325fe8bf720b31b690aacdee6fd868b5"
+      "": "28c055d034dfcaebb958c9ff9dc2177d8f2929d6"
+    },
+    "longest-substring-without-repeating-characters": {
+      "longest-substring-without-repeating-characters.java": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
+      "README.md": "a1ca5b1e46aa6e92714715b86c25ca8a24c2b316"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }

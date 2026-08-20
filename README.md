@@ -43,6 +43,12 @@ Automatically organized LeetCode solutions and progress.
 
 📌 Primary domains are selected using configured domain rules.
 
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+
 ## Linked List
 
 | # | Problem | Platform | Language |
@@ -60,6 +66,18 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Java](./leetcode/Medium/add-two-numbers/add-two-numbers.java) |
+
+## Sliding Window
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+
+## String
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Java](./leetcode/Medium/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
