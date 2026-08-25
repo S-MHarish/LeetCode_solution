@@ -12,14 +12,6 @@ Automatically organized LeetCode solutions and progress.
 | ⚪ Unknown | 0 |
 | **Total Solved** | **4** |
 
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 1 |
-| Math | 1 |
-| String | 2 |
-
 ## 📋 Complete Problem List
 
 | # | Problem | LeetCode | Language | Difficulty | Domain |
@@ -28,6 +20,14 @@ Automatically organized LeetCode solutions and progress.
 | 2 | [Add Two Numbers](./Math/add-two-numbers) | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/) | Java | Medium | Math |
 | 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Java | Medium | String |
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | Python | Medium | String |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 1 |
+| Math | 1 |
+| String | 2 |
 
 ## 🗂️ Problems by Domain
 
@@ -93,8 +93,28 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
----
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
+
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [Java](./leetcode/Hard/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
+
+## Binary Search
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [Java](./leetcode/Hard/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
+
+## Divide and Conquer
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [Java](./leetcode/Hard/median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

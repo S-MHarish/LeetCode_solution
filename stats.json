@@ -61,5 +61,19 @@
       "primaryDomain": "String",
       "folder": "String/longest-palindromic-substring"
     }
-  ]
+  ],
+  "shas": {
+    "median-of-two-sorted-arrays": {
+      "median-of-two-sorted-arrays.java": "056351554637370770a9e4ed2ce00efbd6dd2c96",
+      "README.md": "76596ff9d44c788297a27ed367de12eb49f23681"
+    },
+    "README.md": {
+      "": "6ff05b4dc7d417274943fecb54ea546b4788b591"
+    },
+    "stats.json": {
+      "": "7457d00a8ea11d16dbd6ba6e0b47589838dbc6e6"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
