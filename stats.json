@@ -1,8 +1,8 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "easy": 1,
   "medium": 3,
-  "hard": 0,
+  "hard": 1,
   "unknown": 0,
   "problems": [
     {
@@ -47,6 +47,20 @@
       "folder": "String/longest-substring-without-repeating-characters"
     },
     {
+      "number": 4,
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "language": "Java",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/median-of-two-sorted-arrays"
+    },
+    {
       "number": 5,
       "title": "Longest Palindromic Substring",
       "slug": "longest-palindromic-substring",
@@ -61,24 +75,5 @@
       "primaryDomain": "String",
       "folder": "String/longest-palindromic-substring"
     }
-  ],
-  "shas": {
-    "median-of-two-sorted-arrays": {
-      "median-of-two-sorted-arrays.java": "056351554637370770a9e4ed2ce00efbd6dd2c96",
-      "README.md": "76596ff9d44c788297a27ed367de12eb49f23681"
-    },
-    "README.md": {
-      "": "1f996c5d9efa029fcd67e143323632829250c376"
-    },
-    "stats.json": {
-      "": "3ff8442263c6de691433e6e940bb6967a1bc9710"
-    },
-    "longest-substring-without-repeating-characters": {
-      "longest-substring-without-repeating-characters.java": "c6583bfb9e81f5b9611d5d31706129daf992f4ca",
-      "README.md": "a88909ae7e701c79d47a581603d68ce026b3d29a",
-      "longest-substring-without-repeating-characters.py": "e3975ba3e2a3e0f715f484cad2cd6ef318f37074"
-    }
-  },
-  "solved": 2,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
