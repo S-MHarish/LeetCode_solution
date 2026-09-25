@@ -1,16 +1,45 @@
-# LeetCode_solution
+# LeetCode_Solution
 
-## Array
+Automatically organized LeetCode solutions and progress.
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
+## 📊 Overall Progress
 
-## Hash Table
+| Difficulty | Solved |
+|---|---:|
+| 🟢 Easy | 1 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| ⚪ Unknown | 0 |
+| **Total Solved** | **1** |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./leetcode/Easy/two-sum/two-sum.py) |
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 1 |
+
+## 📋 Complete Problem List
+
+| # | Problem | LeetCode | Language | Difficulty | Domain |
+|---:|---|---|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | [LeetCode #1](https://leetcode.com/problems/two-sum/) | Python | Easy | Array |
+
+## 🗂️ Problems by Domain
+
+### Array
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Python | Easy |
+
+### Hash Table
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Python | Easy |
 
 ---
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
+
+🤖 Automatically updated using GitHub Actions.
+
+📌 Primary domains are selected using configured domain rules.
