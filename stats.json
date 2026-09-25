@@ -1,7 +1,7 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 4,
   "easy": 1,
-  "medium": 0,
+  "medium": 3,
   "hard": 0,
   "unknown": 0,
   "problems": [
@@ -17,28 +17,49 @@
       ],
       "primaryDomain": "Array",
       "folder": "Array/two-sum"
+    },
+    {
+      "number": 2,
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "Java",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "primaryDomain": "Math",
+      "folder": "Math/add-two-numbers"
+    },
+    {
+      "number": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "Java",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/longest-substring-without-repeating-characters"
+    },
+    {
+      "number": 5,
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/longest-palindromic-substring"
     }
-  ],
-  "shas": {
-    "add-two-numbers": {
-      "add-two-numbers.java": "0a56b27701d409abf5db14508e32aba58a816cbd",
-      "README.md": "6444d72d2623c1f5786276e19f44529245c33d52"
-    },
-    "README.md": {
-      "": "e4dcce334e7e69823a365d5c75e40635fb3266f2"
-    },
-    "stats.json": {
-      "": "f66acbd8f038d0a031a4de80d331d4f67dbb1e55"
-    },
-    "longest-substring-without-repeating-characters": {
-      "longest-substring-without-repeating-characters.java": "5ee63588401d66d3230eb8c18d0c92aa4903b539",
-      "README.md": "a1ca5b1e46aa6e92714715b86c25ca8a24c2b316"
-    },
-    "longest-palindromic-substring": {
-      "longest-palindromic-substring.py": "f804c8d6303bde8c34fcfd7719af22dd6816659a",
-      "README.md": "9b8c264a58863298c66b0e0c7c67c6e85ee99603"
-    }
-  },
-  "solved": 3,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
